@@ -1,6 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
-
-# Welcome to My GitHub Profile!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=cWelcome to My GitHub Profile!&fontSize=90" />
 
 # 👤 About Me
 
