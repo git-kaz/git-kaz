@@ -1,7 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=13&height=300&section=header&text=Welcome%20to%20My%20GitHub%20Profile!&fontSize=50" />
 
-## 👤 About Me
+## About Me
 
+- 👤 Name: Kazuki Okawa
 - 🌱 Learning Ruby and Rails
 - 🦆 my X account: https://x.com/kz_runteq
 - 📫 How to reach me: okw.kzk@gmail.com
