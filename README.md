@@ -10,4 +10,4 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ruby,rails,typescript,react,mysql,github,vscode,docker" /> <br /><br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?git-kaz=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=git-kaz&layout=compact)
