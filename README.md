@@ -12,12 +12,11 @@
 
 ## 🚀 Portfolios
 
-### 📄 [iStanding] (On release)
+### 📄 [iStanding](https://istanding.jp/) (On release)
 
 - **概要:** デスクワーカーの「座り過ぎ」を予防・解消するための健康管理Webアプリケーション
 - **主な技術:** Ruby on Rails, javascript, Docker
 - **Repository:** [GitHub Repository](https://github.com/git-kaz/istanding)
-- **URL** [https://istanding.jp/]
 
 ---
 
