@@ -29,4 +29,4 @@
 
 ### 📊 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=git-kaz&layout=compact&theme=catppuccin_latte)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=git-kaz&layout=compact&theme=vue)
