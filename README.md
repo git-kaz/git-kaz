@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=13&height=300&section=header&text=Welcome%20to%20My%20GitHub%20Profile!&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=26&height=300&section=header&text=Welcome%20to%20My%20GitHub%20Profile!&fontSize=50" />
 
 ## 👤 About Me
 
@@ -29,4 +29,4 @@
 
 ### 📊 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=git-kaz&layout=compact&theme=prussian)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=git-kaz&layout=compact&theme=catppuccin_latte)
