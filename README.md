@@ -3,7 +3,6 @@
 ## 👤 About Me
 
 - **Name:** Kazuki Okawa
-- **Occupation** Physical Therapist
 - **Focus:** Ruby on Rails / TypeScript / React
 - **X (Twitter):** [@kz_runteq](https://x.com/kz_runteq)
 - **Contact:** okw.kzk@gmail.com
