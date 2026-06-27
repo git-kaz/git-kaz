@@ -1,31 +1,43 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=26&height=300&section=header&text=Welcome%20to%20My%20GitHub%20Profile!&fontSize=50" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=10b981,059669,047857&height=220&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=45&fontAlignY=40&animation=twinkling" width="100%" />
+</p>
 
 ## 👤 About Me
 
-- **Name:** Kazuki Okawa
-- **Focus:** Ruby on Rails / TypeScript / React
-- **X (Twitter):** [@kz_runteq](https://x.com/kz_runteq)
-- **Contact:** okw.kzk@gmail.com
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Kazuki Okawa</h3>
+      <p>💻 <b>Focus:</b> Ruby on Rails / TypeScript / React</p>
+      <p>📬 <b>Contact:</b> <a href="mailto:okw.kzk@gmail.com">okw.kzk@gmail.com</a></p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=git-kaz&layout=compact&langs_count=5&card_width=380&theme=vue" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🚀 Portfolios
+## 🚀 Featured Portfolio
 
-### 📄 [iStanding](https://istanding.jp/) (On release)
-<img width="600" height="315" alt="ogp" src="https://github.com/user-attachments/assets/7baf2e84-42b1-4b21-96fa-c2fdedb12065" />
+### 📄 [iStanding](https://istanding.jp/) `On release`
+<p align="center">
+  <a href="https://istanding.jp/">
+    <img src="https://github.com/user-attachments/assets/7baf2e84-42b1-4b21-96fa-c2fdedb12065" alt="iStanding OGP" width="100%" style="max-width: 650px; border-radius: 6px;" />
+  </a>
+</p>
 
-- **概要:** デスクワーカーの「座り過ぎ」を予防・解消するための健康管理Webアプリケーション
-- **主な技術:** Ruby on Rails, javascript, Docker
-- **Repository:** [GitHub Repository](https://github.com/git-kaz/istanding)
+* 💡 **概要:** デスクワーカーの「座り過ぎ」を予防・解消するための健康管理Webアプリケーション
+* 🛠 **主要技術:** Ruby on Rails / JavaScript / Docker
+* 🔗 **リポジトリ:** [GitHub Repository](https://github.com/git-kaz/istanding)
 
 ---
 
 ## 🛠 My Skills
 
-<img src="https://skillicons.dev/icons?i=ruby,rails,typescript,react,js,html,css,mysql,docker,github,vscode" />
-
-<br />
-
-### 📊 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=git-kaz&layout=compact&theme=vue)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ruby,rails,typescript,react,js,html,css,mysql,docker,github,vscode" />
+  </a>
+</p>
