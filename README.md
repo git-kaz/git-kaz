@@ -12,7 +12,7 @@
       <p>📬 <b>Contact:</b> <a href="mailto:okw.kzk@gmail.com">okw.kzk@gmail.com</a></p>
     </td>
     <td width="50%" valign="top" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=git-kaz&layout=compact&langs_count=5&card_width=380&theme=vue" alt="Top Langs" />
+      <img src="https://github-readme-stats-alpha.vercel.app/api/top-langs?username=git-kaz&layout=compact&langs_count=5&card_width=380&theme=vue" alt="Top Langs" />
     </td>
   </tr>
 </table>
