@@ -6,13 +6,15 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="40%" valign="top">
       <h3>Kazuki Okawa</h3>
       <p>💻 <b>Focus:</b> Ruby on Rails / TypeScript / React</p>
       <p>📬 <b>Contact:</b> <a href="mailto:okw.kzk@gmail.com">okw.kzk@gmail.com</a></p>
     </td>
-    <td width="50%" valign="top" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=git-kaz&layout=compact&langs_count=5&card_width=380&theme=vue" alt="Top Langs" />
+    <td width="60%" valign="top" align="center">
+      <a href="https://github.com/stats-organization/github-stats-extended">
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=git-kaz&layout=compact&langs_count=4&theme=shadow_green" alt="GitHub Stats" />
+      </a>
     </td>
   </tr>
 </table>
